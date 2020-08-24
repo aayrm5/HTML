@@ -1,0 +1,19 @@
+div{
+    width: 500px;
+    height: 500px ;
+}
+
+.div_parent{
+    background-color: #575585;
+    display: flex;
+}
+
+div_c1{
+    order: 1; 
+}
+div_c2{
+    order: 3;
+}
+div_c3{
+    order: 2;
+}
