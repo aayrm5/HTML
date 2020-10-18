@@ -1,0 +1,17 @@
+body{
+    background: url(https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80);
+    background-repeat: repeat;
+}
+div{
+    background-color:red;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dotted;    
+}
+span{
+    background-color:rgb(163, 163, 149);
+    color:black;
+}
+p{
+    color:yellow;
+}

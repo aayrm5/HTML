@@ -1,0 +1,18 @@
+/* This is how you write a comment. */
+
+/* Selected tag{
+    property:value;
+} */
+
+h1{
+    color:blue;
+}
+li{
+    color:rgb(255,51,0);
+}
+body{
+    background-color:yellow;
+}
+h4 {
+    color:rgba(25,0,100,0.5)
+}
